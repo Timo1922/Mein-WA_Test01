@@ -1,0 +1,20 @@
+{ "object":
+    {
+     "height":40.2969,
+     "id":1,
+     "name":"",
+     "rotation":0,
+     "text":
+        {
+         "bold":true,
+         "fontfamily":"Gill Sans MT",
+         "pixelsize":21,
+         "text":"\"Der Gnom\"",
+         "wrap":true
+        },
+     "type":"",
+     "visible":true,
+     "width":161.031
+    },
+ "type":"template"
+}
