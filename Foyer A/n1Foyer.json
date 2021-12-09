@@ -228,6 +228,24 @@
                  "width":174.059,
                  "x":58.3927528087327,
                  "y":214.127809446625
+                }, 
+                {
+                 "height":152.414,
+                 "id":7,
+                 "name":"l",
+                 "rotation":0.0238741,
+                 "text":
+                    {
+                     "fontfamily":"Gill Sans MT",
+                     "pixelsize":18,
+                     "text":"Familienkonzerte am 11.\/12. Juni 2022 jeweils um 10, 12 und 14 Uhr in der Lichtburg. N\u00e4here Informationen unter www.familienkonzerte.info",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":356.912885029244,
+                 "x":344.876333333333,
+                 "y":601.126333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -248,7 +266,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":7,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
