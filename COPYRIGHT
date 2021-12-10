@@ -1,5 +1,44 @@
-Tileset: Pipoya, https://pipoya.itch.io/pipoya-rpg-tileset-32x32
-Musik: eigen
-Bilder: museopen
-Lichtburg: https://filmspiegel-essen.de/wp-content/uploads/2017/01/Lichtburg_aussen_02-1024x576-1024x576.jpg
-https://filmspiegel-essen.de/kinos/lichtburg/#impressionen
+•	Klaviereinspielung: © Jevgeni Vitovski (Nutzung mit freundlicher Genehmigung)
+•	Illustrationen: © Manuel Simon (Nutzung mit freundlicher Genehmigung)
+•	Saxophon: © Simona Hillen (Nutzung mit freundlicher Genehmigung)
+•	Trompete: © Timo Miederhoff (Nutzung mit freundlicher Genehmigung)
+
+•	Freie Klangbeispiele
+o	214869__frankie01234__a-murder-of-crows [„Krähe“] CC0,  URL: https://freesound.org/people/Frankie01234/sounds/214869/ [abgerufen am 10.12.2021]. 
+
+•	Tilesets
+o	BaseChip_pipo (---)
+o	BaseChip_pipo_rearranged (---), URL: https://github.com/workadventure-xce/workadventure-xce-map-starter-kit/blob/main/BaseChip_pipo_rearranged.png [abgerufen am 10.12.2021].
+o	mapUtilities (---), URL: https://github.com/workadventure-xce/workadventure-xce-map-starter-kit/blob/main/mapUtilities.png [abgerufen am 10.12.2021].
+o	tilesets_deviant_milkian (---), URL: https://github.com/workadventure-xce/workadventure-xce-map-starter-kit/blob/main/tilesets_deviant_milkian_1.png [abgerufen am 10.12.2021].
+o	sprites CC0, URL: https://opengameart.org/content/tile-based-strategy-game-sprites [abgerufen am 10.12.2021].
+o	backgrounds [„Hintergrund111“] CC0, URL: https://opengameart.org/content/gothicvania-church-pack [abgerufen am 10.12.2021].
+o	tiles [„Haus1“] CC0, URL: https://opengameart.org/content/orthographic-outdoor-tiles [abgerufen am 10.12.2021].
+
+•	Bilder
+o	Hartmann_Chicks_sketch_for_Trilby_ballet (gemeinfrei), URL: https://de.wikipedia.org/wiki/Datei:Hartmann_Chicks_sketch_for_Trilby_ballet.jpg [abgerufen am 10.12.2021].
+o	Hartmann_--_Plan_for_a_City_Gate (gemeinfrei/© Viktor Hartmann) URL: https://de.wikipedia.org/wiki/Datei:Hartmann_--_Plan_for_a_City_Gate.jpg [abgerufen am 10.12.2021].
+o	The_Poor_Jew (gemeinfrei/© Viktor Hartmann), URL: https://de.wikipedia.org/wiki/Datei:The_Poor_Jew.jpg [abgerufen am 10.12.2021].
+o	The_Rich_Jew (gemeinfrei/© Viktor Hartmann), URL: https://de.wikipedia.org/wiki/Datei:The_Rich_Jew.jpg [abgerufen am 10.12.2021].
+o	Hartmann_-_Hut_of_Baba_Yaga (gemeinfrei/© Viktor Hartmann), URL: https://de.wikipedia.org/wiki/Datei:Hartmann_-_Hut_of_Baba_Yaga.jpg [abgerufen am 10.12.2021].
+o	Hartmann_-_Plan_for_a_City_Gate [„Bild1“] (gemeinfrei/© Viktor Hartmann), URL: https://de.wikipedia.org/wiki/Datei:Hartmann_--_Plan_for_a_City_Gate.jpg [abgerufen am 10.12.2021].
+
+o	2017/01/Lichtburg_Sitze-1024x577.jpg [„Lichtburg_Ballett_Stuhlreihen_skaliert“] © Lichtburg Fotografen: Frank Vinken und Hanns-Peter Hüster (Nutzung mit freundlicher Genehmigung), URL: https://filmspiegel-essen.de/wp-content/uploads/2017/01/Lichtburg_Sitze-1024x577.jpg [abgerufen am 10.12.2021].
+o	2017/01/Lichtburg_09-08-03_pano_6332-1024x577.jpg [„Lichtburg_09-08-03_pano_6332-1024x577 Blauer Salon“] © Lichtburg Fotografen: Frank Vinken und Hanns-Peter Hüster (Nutzung mit freundlicher Genehmigung), URL: https://filmspiegel-essen.de/wp-content/uploads/2017/01/Lichtburg_09-08-03_pano_6332-1024x577.jpg [abgerufen am 10.12.2021].
+o	2017/01/Lichtburg_09-08-03_6373-2-1024x682.jpg [„01 Lichtburg_09-08-03_6373-2-1024x682 Saaleingang“] © Lichtburg Fotografen: Frank Vinken und Hanns-Peter Hüster (Nutzung mit freundlicher Genehmigung), URL: https://filmspiegel-essen.de/wp-content/uploads/2017/01/Lichtburg_09-08-03_6373-2-1024x682.jpg [abgerufen am 10.12.2021].
+o	2017/01/Lichtburg_09-08-03_6400-1024x577.jpg [„Lichtburg_09-08-03_6400-1024x577 Sabu“] © Lichtburg Fotografen: Frank Vinken und Hanns-Peter Hüster (Nutzung mit freundlicher Genehmigung), URL: https://filmspiegel-essen.de/wp-content/uploads/2017/01/Lichtburg_09-08-03_6400-1024x577.jpg [abgerufen am 10.12.2021].
+o	2017/12/Lichtburg_innen_01-1024x576.jpg [„Lichtburg_innen_Konzert“] © Lichtburg Fotografen: Frank Vinken und Hanns-Peter Hüster (Nutzung mit freundlicher Genehmigung), URL: https://filmspiegel-essen.de/wp-content/uploads/2017/12/Lichtburg_innen_01-1024x576.jpg [abgerufen am 10.12.2021].
+o	2017/01/Lichtburg_09-08-03_6356-1024x681.jpg [„Lichtburg_09-08-03_6356-1024x681Foyer“] © Lichtburg Fotografen: Frank Vinken und Hanns-Peter Hüster (Nutzung mit freundlicher Genehmigung), URL: https://filmspiegel-essen.de/wp-content/uploads/2017/01/Lichtburg_09-08-03_6356-1024x681.jpg [abgerufen am 10.12.2021].
+o	2017/01/Lichtburg_aussen_02-1024x576-1024x576.jpg [„Lichtburg_aussen_skalliert“] © Lichtburg Fotografen: Frank Vinken und Hanns-Peter Hüster (Nutzung mit freundlicher Genehmigung), URL: https://filmspiegel-essen.de/wp-content/uploads/2017/01/Lichtburg_aussen_02-1024x576-1024x576.jpg [abgerufen am 10.12.2021].
+
+o	Modest_Músorgski,_por_Iliá_Repin [„Modest_Músorgski1“] (gemeinfrei/© Iliá Repin), URL: https://de.wikipedia.org/wiki/Datei:Modest_M%C3%BAsorgski,_por_Ili%C3%A1_Repin.jpg [abgerufen am 10.12.2021].
+o	Maurice_Ravel_1925 (Copyright ausgelaufen, unbekannter Urheber, Entstehungsjahr 1925), URL: https://de.wikipedia.org/wiki/Datei:Maurice_Ravel_1925.jpg [abgerufen am 10.12.2021].
+o	Schottland_Schlossbreite704 © Ulrike Schwanse (Nutzung mit freundlicher Genehmigung).
+o	Saxophon © Simona Hillen (Nutzung mit freundlicher Genehmigung).
+
+•	WorkAdventure-Räume gestaltet von:
+o	Ulrike Schwanse („Der Gnom“, „Das alte Schloss“, „Ballett der unausgeschlüpften Küken“).
+o	Timo Miederhoff („Promenade(n)“, „Der Marktplatz von Limoges“, „Die Katakomben“ - bzw. „Cum mortuis in lingua mortua“, „Die Hütte der Baba-Jaga“, „Das große Tor von Kiew“).
+o	Luise Hecht („Die Tuilerien“).
+o	Henrik Wilkens („Bydło“).
+o	Paul Lemke („Samuel“ Goldenberg und „Schmuyle“).
