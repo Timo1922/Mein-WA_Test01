@@ -399,7 +399,7 @@
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":17,
-                     "text":"Info 3",
+                     "text":"Info 4",
                      "valign":"center",
                      "wrap":true
                     },
@@ -408,6 +408,27 @@
                  "width":72,
                  "x":1410.66666666667,
                  "y":2108.5
+                }, 
+                {
+                 "height":19,
+                 "id":9,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Gill Sans MT",
+                     "halign":"center",
+                     "pixelsize":17,
+                     "text":"Info 3",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":186.666666666667,
+                 "y":1811.83333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -428,7 +449,7 @@
          "y":0
         }],
  "nextlayerid":28,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
