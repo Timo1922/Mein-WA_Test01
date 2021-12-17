@@ -307,6 +307,26 @@
                  "width":120.881,
                  "x":11.5595,
                  "y":513.604783333333
+                }, 
+                {
+                 "height":40.2969,
+                 "id":9,
+                 "name":"ll",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#ffffff",
+                     "fontfamily":"Gill Sans MT",
+                     "pixelsize":21,
+                     "text":"2",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":136.531,
+                 "x":195.249651515152,
+                 "y":26.5788227272727
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -327,7 +347,7 @@
          "y":0
         }],
  "nextlayerid":18,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
