@@ -179,6 +179,12 @@
  "nextlayerid":10,
  "nextobjectid":4,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Dieses WorkAdventure wird unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
  "tileheight":32,
@@ -195,6 +201,15 @@
          "tilecount":9,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tmapUtilities (Urheber vmtl. aus der chaos-Blase), URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                        }]
+                }, 
                 {
                  "id":3,
                  "properties":[
@@ -215,9 +230,25 @@
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -231,6 +262,16 @@
          "spacing":0,
          "tilecount":936,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -245,6 +286,15 @@
          "tilecount":1064,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                        }]
+                }, 
                 {
                  "id":616,
                  "properties":[
@@ -267,6 +317,16 @@
          "spacing":0,
          "tilecount":220,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tSchottland_Schlossbreite704 \u00a9 Ulrike Schwanse (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -280,6 +340,16 @@
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tBaseChip_pipo_rearranged \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021], bzw. URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/BaseChip_pipo_rearranged.png [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }, 
@@ -294,6 +364,16 @@
          "spacing":0,
          "tilecount":576,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\t2017\/01\/Lichtburg_Sitze-1024x577.jpg [\u201eLichtburg_Ballett_Stuhlreihen_skaliert\u201c] \u00a9 Lichtburg Fotografen: Frank Vinken und Hanns-Peter H\u00fcster (Nutzung mit freundlicher Genehmigung), URL: https:\/\/filmspiegel-essen.de\/wp-content\/uploads\/2017\/01\/Lichtburg_Sitze-1024x577.jpg [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -307,6 +387,16 @@
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tModest_M\u00fasorgski,_por_Ili\u00e1_Repin [\u201eModest_M\u00fasorgski1\u201c] (gemeinfrei\/\u00a9 Ili\u00e1 Repin), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:Modest_M%C3%BAsorgski,_por_Ili%C3%A1_Repin.jpg [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
