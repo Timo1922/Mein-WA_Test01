@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Das%20gro%C3%9Fe%20Tor%20von%20Kiew%20A\/b1Tor.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Unten%20%26%20Oben\/n1Unten1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -335,7 +335,7 @@
                      "color":"#ff00ff",
                      "fontfamily":"Gill Sans MT",
                      "pixelsize":21,
-                     "text":"\"Die H\u00fctte der Baba-Jaga\"",
+                     "text":"\"Die H\u00fctte der Baba Yaga\"",
                      "wrap":true
                     },
                  "type":"",
@@ -372,6 +372,12 @@
  "nextlayerid":22,
  "nextobjectid":4,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Dieses WorkAdventure wird unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
  "tileheight":32,
@@ -387,6 +393,16 @@
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -400,6 +416,16 @@
          "spacing":0,
          "tilecount":805,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -413,6 +439,16 @@
          "spacing":0,
          "tilecount":96,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tHartmann_-_Hut_of_Baba_Yaga (gemeinfrei\/\u00a9 Viktor Hartmann), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:Hartmann_-_Hut_of_Baba_Yaga.jpg [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -426,6 +462,16 @@
          "spacing":0,
          "tilecount":114,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tbackgrounds [\u201eHintergrund111\u201c] (CC0), URL: https:\/\/opengameart.org\/content\/gothicvania-church-pack [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -440,6 +486,15 @@
          "tilecount":9,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tmapUtilities (Urheber vmtl. aus der chaos-Blase), URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                        }]
+                }, 
                 {
                  "id":3,
                  "properties":[
@@ -463,6 +518,16 @@
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tsprites (CC0), URL: https:\/\/opengameart.org\/content\/tile-based-strategy-game-sprites [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -477,6 +542,15 @@
          "tilecount":1064,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                        }]
+                }, 
                 {
                  "id":616,
                  "properties":[
@@ -499,6 +573,16 @@
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tpipo-popupemotes_sampleanimation [\u201epipo-popupemotes_sampleanimation_rund\u201c] \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/free-popup-emotes-pack [abgerufen am 18.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
