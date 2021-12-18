@@ -466,7 +466,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"o\t\u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
                 }],
          "spacing":0,
          "tilecount":475,
@@ -485,7 +485,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"o\t\u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
                 }],
          "spacing":0,
          "tilecount":805,
@@ -504,7 +504,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"o\t\u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
                 }],
          "spacing":0,
          "tilecount":805,

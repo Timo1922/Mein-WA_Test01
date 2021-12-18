@@ -376,6 +376,12 @@
  "nextlayerid":22,
  "nextobjectid":7,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Dieses WorkAdventure wird unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
  "tileheight":32,
@@ -388,6 +394,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -401,6 +413,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"sprites",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tsprites (CC0), URL: https:\/\/opengameart.org\/content\/tile-based-strategy-game-sprites [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -414,6 +432,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities (Urheber vmtl. aus der chaos-Blase), URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -438,6 +462,12 @@
          "imagewidth":610,
          "margin":0,
          "name":"FigurGrunklein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":475,
          "tileheight":32,
@@ -451,6 +481,12 @@
          "imagewidth":743,
          "margin":0,
          "name":"figurrotklein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":805,
          "tileheight":32,
@@ -464,6 +500,12 @@
          "imagewidth":743,
          "margin":0,
          "name":"figurrotklein02",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":805,
          "tileheight":32,
@@ -477,6 +519,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities (Urheber vmtl. aus der chaos-Blase), URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -501,6 +549,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"pipo-popupemotes_sampleanimation_rund",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tpipo-popupemotes_sampleanimation [\u201epipo-popupemotes_sampleanimation_rund\u201c] \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/free-popup-emotes-pack [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
