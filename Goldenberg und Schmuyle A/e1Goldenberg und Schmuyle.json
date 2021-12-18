@@ -430,6 +430,12 @@
  "nextlayerid":52,
  "nextobjectid":60,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Dieses WorkAdventure wird unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
  "tileheight":32,
@@ -442,9 +448,25 @@
          "imagewidth":544,
          "margin":1,
          "name":"BaseChip_pipo_rearranged",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tBaseChip_pipo_rearranged \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021], bzw. URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/BaseChip_pipo_rearranged.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tBaseChip_pipo_rearranged \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021], bzw. URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/BaseChip_pipo_rearranged.png [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }, 
@@ -460,6 +482,15 @@
          "tilecount":9,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tmapUtilities (Urheber vmtl. aus der chaos-Blase), URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                        }]
+                }, 
                 {
                  "id":3,
                  "properties":[
@@ -483,6 +514,16 @@
          "spacing":0,
          "tilecount":70,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tThe_Poor_Jew (gemeinfrei\/\u00a9 Viktor Hartmann), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:The_Poor_Jew.jpg [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -496,6 +537,16 @@
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tThe_Rich_Jew (gemeinfrei\/\u00a9 Viktor Hartmann), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:The_Rich_Jew.jpg [abgerufen am 10.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -509,6 +560,16 @@
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -522,6 +583,16 @@
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -532,9 +603,25 @@
          "imagewidth":200,
          "margin":0,
          "name":"Figur-Blau-01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -548,6 +635,16 @@
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -561,6 +658,16 @@
          "spacing":0,
          "tilecount":60,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -571,10 +678,25 @@
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                        }]
+                }, 
                 {
                  "id":616,
                  "properties":[
@@ -597,6 +719,16 @@
          "spacing":0,
          "tilecount":475,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -610,6 +742,16 @@
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"o\tpipo-popupemotes_sampleanimation [\u201epipo-popupemotes_sampleanimation_rund\u201c] \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/free-popup-emotes-pack [abgerufen am 18.12.2021]."
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
