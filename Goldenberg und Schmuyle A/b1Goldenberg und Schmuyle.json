@@ -119,7 +119,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Promenade%20A\/b1PromenadeTp.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Unten%20%26%20Oben\/n1Oben.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -478,6 +478,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -511,6 +517,12 @@
          "imagewidth":250,
          "margin":0,
          "name":"The_Poor_Jew",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tThe_Poor_Jew (gemeinfrei\/\u00a9 Viktor Hartmann), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:The_Poor_Jew.jpg [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":70,
          "tileheight":32,
@@ -534,6 +546,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"The_Rich_Jew",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tThe_Rich_Jew (gemeinfrei\/\u00a9 Viktor Hartmann), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:The_Rich_Jew.jpg [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
@@ -557,6 +575,12 @@
          "imagewidth":222,
          "margin":0,
          "name":"Losungsmannchen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
@@ -580,6 +604,12 @@
          "imagewidth":200,
          "margin":0,
          "name":"Figur-Rot-02",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
@@ -632,6 +662,12 @@
          "imagewidth":200,
          "margin":0,
          "name":"Figur-Gelb-02",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -655,6 +691,12 @@
          "imagewidth":200,
          "margin":0,
          "name":"Figur-Gelb-01",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":60,
          "tileheight":32,
@@ -716,6 +758,12 @@
          "imagewidth":610,
          "margin":0,
          "name":"FigurGrunklein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":475,
          "tileheight":32,
@@ -739,6 +787,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"pipo-popupemotes_sampleanimation_rund",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tpipo-popupemotes_sampleanimation [\u201epipo-popupemotes_sampleanimation_rund\u201c] \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/free-popup-emotes-pack [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
