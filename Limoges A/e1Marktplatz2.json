@@ -436,7 +436,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"o\tmapUtilities (Urheber vmtl. aus der chaos-Blase), URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
                 }],
          "spacing":2,
          "tilecount":9,
