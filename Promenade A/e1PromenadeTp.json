@@ -214,6 +214,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -276,6 +282,12 @@
          "imagewidth":771,
          "margin":0,
          "name":"M\u00e4nnchen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":936,
          "tileheight":32,
@@ -299,6 +311,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -331,6 +349,12 @@
          "imagewidth":704,
          "margin":0,
          "name":"Schottland_Schlossbreite704",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tSchottland_Schlossbreite704 \u00a9 Ulrike Schwanse (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":220,
          "tileheight":32,
@@ -354,6 +378,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"BaseChip_pipo_rearranged",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tBaseChip_pipo_rearranged \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021], bzw. URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/BaseChip_pipo_rearranged.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
@@ -378,6 +408,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"Lichtburg_Ballett_Stuhlreihen_skaliert",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\t2017\/01\/Lichtburg_Sitze-1024x577.jpg [\u201eLichtburg_Ballett_Stuhlreihen_skaliert\u201c] \u00a9 Lichtburg Fotografen: Frank Vinken und Hanns-Peter H\u00fcster (Nutzung mit freundlicher Genehmigung), URL: https:\/\/filmspiegel-essen.de\/wp-content\/uploads\/2017\/01\/Lichtburg_Sitze-1024x577.jpg [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":576,
          "tileheight":32,
@@ -401,6 +437,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"The_Rich_Jew",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tThe_Rich_Jew (gemeinfrei\/\u00a9 Viktor Hartmann), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:The_Rich_Jew.jpg [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
@@ -424,6 +466,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"sprites",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tsprites (CC0), URL: https:\/\/opengameart.org\/content\/tile-based-strategy-game-sprites [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -447,6 +495,12 @@
          "imagewidth":828,
          "margin":0,
          "name":"gespiegelt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tHartmann_Paris_Catacombs [\u201eBild1\u201c\/\u201eBild2\u201c] (gemeinfrei), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:Hartmann_Paris_Catacombs.jpg [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":475,
          "tileheight":32,
@@ -499,6 +553,12 @@
          "imagewidth":300,
          "margin":0,
          "name":"trompete",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tTrompete \u00a9 Timo Miederhoff (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
