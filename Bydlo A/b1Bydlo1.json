@@ -479,6 +479,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"BaseChip_pipo_rearranged",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tBaseChip_pipo_rearranged \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021], bzw. URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/BaseChip_pipo_rearranged.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
@@ -502,6 +508,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -534,6 +546,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -605,6 +623,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"pipo-popupemotes_sampleanimation_rund",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tpipo-popupemotes_sampleanimation [\u201epipo-popupemotes_sampleanimation_rund\u201c] \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/free-popup-emotes-pack [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
