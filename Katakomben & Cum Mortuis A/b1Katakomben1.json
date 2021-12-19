@@ -480,6 +480,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"BaseChip_pipo_rearranged",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tBaseChip_pipo_rearranged \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021], bzw. URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/BaseChip_pipo_rearranged.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
@@ -504,6 +510,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -537,6 +549,12 @@
          "imagewidth":828,
          "margin":0,
          "name":"Hartmann_Paris_Catacombs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tHartmann_Paris_Catacombs [\u201eBild1\u201c\/\u201eBild2\u201c] (gemeinfrei), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:Hartmann_Paris_Catacombs.jpg [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":475,
          "tileheight":32,
@@ -560,6 +578,12 @@
          "imagewidth":624,
          "margin":0,
          "name":"Hintergrund111",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tbackgrounds [\u201eHintergrund111\u201c] (CC0), URL: https:\/\/opengameart.org\/content\/gothicvania-church-pack [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":114,
          "tileheight":32,
@@ -583,6 +607,12 @@
          "imagewidth":400,
          "margin":0,
          "name":"Haus1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\ttiles [\u201eHaus1\u201c] (CC0), URL: https:\/\/opengameart.org\/content\/orthographic-outdoor-tiles [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":84,
          "tileheight":32,
@@ -606,6 +636,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"sprites",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tsprites (CC0), URL: https:\/\/opengameart.org\/content\/tile-based-strategy-game-sprites [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -629,6 +665,12 @@
          "imagewidth":743,
          "margin":0,
          "name":"figurrotklein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":805,
          "tileheight":32,
@@ -652,6 +694,12 @@
          "imagewidth":828,
          "margin":0,
          "name":"gespiegelt",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tHartmann_Paris_Catacombs [\u201eBild1\u201c\/\u201eBild2\u201c] (gemeinfrei), URL: https:\/\/de.wikipedia.org\/wiki\/Datei:Hartmann_Paris_Catacombs.jpg [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":475,
          "tileheight":32,
@@ -675,6 +723,12 @@
          "imagewidth":610,
          "margin":0,
          "name":"FigurGrunklein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":475,
          "tileheight":32,
@@ -698,6 +752,12 @@
          "imagewidth":1800,
          "margin":0,
          "name":"schwarzerWeg",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\"schwarzerWeg\" (CC0)"
+                }],
          "spacing":0,
          "tilecount":2352,
          "tileheight":32,
@@ -721,6 +781,12 @@
          "imagewidth":743,
          "margin":0,
          "name":"figurrotklein02",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tIllustrationen: \u00a9 Manuel Simon (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":805,
          "tileheight":32,
@@ -744,6 +810,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
@@ -777,6 +849,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"pipo-popupemotes_sampleanimation_rund",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tpipo-popupemotes_sampleanimation [\u201epipo-popupemotes_sampleanimation_rund\u201c] \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/free-popup-emotes-pack [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
