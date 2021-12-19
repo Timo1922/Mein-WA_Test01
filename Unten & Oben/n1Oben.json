@@ -479,6 +479,12 @@
          "imagewidth":306,
          "margin":1,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                }],
          "spacing":2,
          "tilecount":9,
          "tileheight":32,
