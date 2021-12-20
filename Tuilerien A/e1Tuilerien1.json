@@ -489,7 +489,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Dieses WorkAdventure wird unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
+         "value":"Dieses WorkAdventure wird vom Familienkonzerte Ruhr e.V. unter der Lizenz CC BY-SA-NC-ND bereitgestellt.\n\u2022\tKlaviereinspielung: \u00a9 Jevgeni Vitovski (Nutzung mit freundlicher Genehmigung).\n\n"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
