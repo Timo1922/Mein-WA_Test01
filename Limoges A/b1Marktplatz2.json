@@ -116,7 +116,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"testmap bonfire"
+                 "value":"eMarktplatz"
                 }],
          "type":"tilelayer",
          "visible":false,
