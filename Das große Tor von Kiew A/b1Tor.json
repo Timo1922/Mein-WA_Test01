@@ -144,7 +144,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"eTorKiew01"
+                 "value":"eTorKiew01a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"eTorKiew02"
+                 "value":"eTorKiew02b"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -180,7 +180,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"eTorKiew03"
+                 "value":"eTorKiew03c"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,7 +198,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"eTorKiew04"
+                 "value":"eTorKiew04d"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -216,7 +216,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"eTorKiew05"
+                 "value":"eTorKiew04e"
                 }],
          "type":"tilelayer",
          "visible":true,
