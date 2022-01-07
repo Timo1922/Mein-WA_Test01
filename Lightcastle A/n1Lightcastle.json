@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Foyer%20A\/n1Foyer.json"
+                 "value":"..\/Foyer%20A\/n1Foyer.json"
                 }],
          "type":"tilelayer",
          "visible":false,
