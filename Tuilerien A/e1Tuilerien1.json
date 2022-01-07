@@ -444,13 +444,13 @@
                  "y":1532.68491666667
                 }, 
                 {
-                 "height":19,
+                 "height":15.5,
                  "id":11,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "color":"#55ffff",
+                     "color":"#ffff7f",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":21,
@@ -460,9 +460,9 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":72,
-                 "x":963,
-                 "y":1469.41666666667
+                 "width":49.6666666666667,
+                 "x":967,
+                 "y":1470.75
                 }],
          "opacity":1,
          "type":"objectgroup",
