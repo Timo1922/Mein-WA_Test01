@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Unten%20%26%20Oben\/n1Unten1.json"
+                 "value":"..\/Unten%20%26%20Oben\/n1Unten1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -575,6 +575,35 @@
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"o\tTrompete \u00a9 Timo Miederhoff (Nutzung mit freundlicher Genehmigung)."
+                        }]
+                }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":5805,
+         "image":"..\/Blauer Salon A\/[Base]BaseChip_pipo.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"[Base]BaseChip_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                }],
+         "spacing":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":616,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }],
          "tilewidth":32

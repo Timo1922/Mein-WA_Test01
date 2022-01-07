@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Gnom%20A\/b1Gnom.json"
+                 "value":"..\/Gnom%20A\/b1Gnom.json"
                 }],
          "type":"tilelayer",
          "visible":false,
