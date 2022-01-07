@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Unten%20%26%20Oben\/n1Unten1.json"
+                 "value":"..\/Unten%20%26%20Oben\/n1Unten1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
