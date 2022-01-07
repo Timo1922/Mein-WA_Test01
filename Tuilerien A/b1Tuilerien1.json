@@ -328,7 +328,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -341,7 +340,7 @@
                  "visible":true,
                  "width":72,
                  "x":931.166666666667,
-                 "y":1246.16666666666
+                 "y":1245.41666666666
                 }, 
                 {
                  "height":19,
@@ -350,7 +349,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -363,7 +361,7 @@
                  "visible":true,
                  "width":72,
                  "x":835.083333333333,
-                 "y":445.75
+                 "y":445.5
                 }, 
                 {
                  "height":19,
@@ -372,7 +370,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -385,7 +382,7 @@
                  "visible":true,
                  "width":72,
                  "x":994.833333333333,
-                 "y":445.666666666666
+                 "y":445.416666666666
                 }, 
                 {
                  "height":19,
@@ -394,7 +391,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -448,14 +444,13 @@
                  "y":1532.68491666667
                 }, 
                 {
-                 "height":19,
+                 "height":17,
                  "id":11,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
-                     "color":"#55ffff",
+                     "color":"#ffff7f",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":21,
@@ -465,9 +460,9 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":72,
-                 "x":963,
-                 "y":1469.91666666667
+                 "width":49.6666666666667,
+                 "x":966,
+                 "y":1470.75
                 }],
          "opacity":1,
          "type":"objectgroup",
