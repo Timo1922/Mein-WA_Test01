@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Promenade%20A\/e1PromenadeTp.json"
+                 "value":"..\/Promenade%20A\/e1PromenadeTp.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Limoges%20A\/e1Marktplatz2.json"
+                 "value":"..\/Limoges%20A\/e1Marktplatz2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Katakomben%20%26%20Cum%20Mortuis%20A\/e1Katakomben1.json"
+                 "value":"..\/Katakomben%20%26%20Cum%20Mortuis%20A\/e1Katakomben1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/H%C3%BCtte%20der%20Baba-Jaga%20A\/e1H%C3%BCtte.json"
+                 "value":"..\/H%C3%BCtte%20der%20Baba-Jaga%20A\/e1H%C3%BCtte.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Das%20gro%C3%9Fe%20Tor%20von%20Kiew%20A\/e1Tor.json"
+                 "value":"..\/Das%20gro%C3%9Fe%20Tor%20von%20Kiew%20A\/e1Tor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Timo1922\/Mein-WA_Test01\/main\/Foyer%20A\/n1Foyer.json"
+                 "value":"..\/Foyer%20A\/n1Foyer.json"
                 }],
          "type":"tilelayer",
          "visible":true,
