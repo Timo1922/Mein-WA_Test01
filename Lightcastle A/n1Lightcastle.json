@@ -72,7 +72,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"testmap bonfire"
+                 "value":"nLightcastle"
                 }],
          "type":"tilelayer",
          "visible":false,
