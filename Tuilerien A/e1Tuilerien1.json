@@ -329,6 +329,7 @@
                  "text":
                     {
                      "bold":true,
+                     "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":17,
@@ -350,6 +351,7 @@
                  "text":
                     {
                      "bold":true,
+                     "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":17,
@@ -371,6 +373,7 @@
                  "text":
                     {
                      "bold":true,
+                     "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":17,
@@ -392,6 +395,7 @@
                  "text":
                     {
                      "bold":true,
+                     "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":17,
@@ -451,6 +455,7 @@
                  "text":
                     {
                      "bold":true,
+                     "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
                      "pixelsize":17,
