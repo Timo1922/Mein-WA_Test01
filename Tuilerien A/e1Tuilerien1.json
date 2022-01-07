@@ -328,7 +328,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -341,7 +340,7 @@
                  "visible":true,
                  "width":72,
                  "x":931.166666666667,
-                 "y":1246.16666666666
+                 "y":1245.41666666666
                 }, 
                 {
                  "height":19,
@@ -350,7 +349,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -363,7 +361,7 @@
                  "visible":true,
                  "width":72,
                  "x":835.083333333333,
-                 "y":445.75
+                 "y":445.5
                 }, 
                 {
                  "height":19,
@@ -372,7 +370,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -385,7 +382,7 @@
                  "visible":true,
                  "width":72,
                  "x":994.833333333333,
-                 "y":445.666666666666
+                 "y":445.416666666666
                 }, 
                 {
                  "height":19,
@@ -394,7 +391,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -454,7 +450,6 @@
                  "rotation":0,
                  "text":
                     {
-                     "bold":true,
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
@@ -467,7 +462,7 @@
                  "visible":true,
                  "width":72,
                  "x":963,
-                 "y":1469.91666666667
+                 "y":1469.41666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
