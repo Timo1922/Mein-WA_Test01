@@ -96,7 +96,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"testmap bonfire"
+                 "value":"nBlauer Salon"
                 }],
          "type":"tilelayer",
          "visible":false,
