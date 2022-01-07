@@ -70,6 +70,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioCopyright",
+                 "type":"string",
+                 "value":"Klaviereinspielung: \u00a9 Jevgeni Vitovski (Nutzung mit freundlicher Genehmigung)."
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"Schloss Saxophon Solo.wav"
@@ -216,7 +221,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Dieses WorkAdventure wird vom Familienkonzerte Ruhr e.V. unter der Lizenz CC BY-SA-NC-ND bereitgestellt.\n\u2022\tKlaviereinspielung: \u00a9 Jevgeni Vitovski (Nutzung mit freundlicher Genehmigung).\n\n"
+         "value":"Dieses WorkAdventure wird vom Familienkonzerte Ruhr e.V. unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
