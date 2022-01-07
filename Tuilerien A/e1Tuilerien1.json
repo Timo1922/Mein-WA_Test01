@@ -332,7 +332,7 @@
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
-                     "pixelsize":17,
+                     "pixelsize":21,
                      "text":"Info 2",
                      "valign":"center",
                      "wrap":true
@@ -341,7 +341,7 @@
                  "visible":true,
                  "width":72,
                  "x":931.166666666667,
-                 "y":1244.66666666666
+                 "y":1246.16666666666
                 }, 
                 {
                  "height":19,
@@ -354,7 +354,7 @@
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
-                     "pixelsize":17,
+                     "pixelsize":21,
                      "text":"Info 3",
                      "valign":"center",
                      "wrap":true
@@ -363,7 +363,7 @@
                  "visible":true,
                  "width":72,
                  "x":835.083333333333,
-                 "y":444.5
+                 "y":445.75
                 }, 
                 {
                  "height":19,
@@ -376,7 +376,7 @@
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
-                     "pixelsize":17,
+                     "pixelsize":21,
                      "text":"Info 4",
                      "valign":"center",
                      "wrap":true
@@ -385,7 +385,7 @@
                  "visible":true,
                  "width":72,
                  "x":994.833333333333,
-                 "y":444.166666666666
+                 "y":445.666666666666
                 }, 
                 {
                  "height":19,
@@ -398,7 +398,7 @@
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
-                     "pixelsize":17,
+                     "pixelsize":21,
                      "text":"Info 5",
                      "valign":"center",
                      "wrap":true
@@ -407,7 +407,7 @@
                  "visible":true,
                  "width":72,
                  "x":1091.09090909091,
-                 "y":1052.56060606061
+                 "y":1053.56060606061
                 }, 
                 {
                  "height":23.4571,
@@ -458,7 +458,7 @@
                      "color":"#55ffff",
                      "fontfamily":"Gill Sans MT",
                      "halign":"center",
-                     "pixelsize":17,
+                     "pixelsize":21,
                      "text":"Info 1",
                      "valign":"center",
                      "wrap":true
@@ -467,7 +467,7 @@
                  "visible":true,
                  "width":72,
                  "x":963,
-                 "y":1468.41666666667
+                 "y":1469.91666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
