@@ -322,90 +322,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":19,
-                 "id":5,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#55ffff",
-                     "fontfamily":"Gill Sans MT",
-                     "halign":"center",
-                     "pixelsize":21,
-                     "text":"Info 2",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":72,
-                 "x":931.166666666667,
-                 "y":1245.41666666666
-                }, 
-                {
-                 "height":19,
-                 "id":6,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#55ffff",
-                     "fontfamily":"Gill Sans MT",
-                     "halign":"center",
-                     "pixelsize":21,
-                     "text":"Info 3",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":72,
-                 "x":835.083333333333,
-                 "y":445.5
-                }, 
-                {
-                 "height":19,
-                 "id":7,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#55ffff",
-                     "fontfamily":"Gill Sans MT",
-                     "halign":"center",
-                     "pixelsize":21,
-                     "text":"Info 4",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":72,
-                 "x":994.833333333333,
-                 "y":445.416666666666
-                }, 
-                {
-                 "height":19,
-                 "id":8,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#55ffff",
-                     "fontfamily":"Gill Sans MT",
-                     "halign":"center",
-                     "pixelsize":21,
-                     "text":"Info 5",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":72,
-                 "x":1091.09090909091,
-                 "y":1053.56060606061
-                }, 
-                {
                  "height":23.4571,
                  "id":9,
                  "name":"l",
@@ -444,7 +360,7 @@
                  "y":1532.68491666667
                 }, 
                 {
-                 "height":15.5,
+                 "height":18.5,
                  "id":11,
                  "name":"",
                  "rotation":0,
@@ -462,7 +378,91 @@
                  "visible":true,
                  "width":49.6666666666667,
                  "x":967,
-                 "y":1470.75
+                 "y":1469.5
+                }, 
+                {
+                 "height":18.5,
+                 "id":12,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffff7f",
+                     "fontfamily":"Gill Sans MT",
+                     "halign":"center",
+                     "pixelsize":21,
+                     "text":"Info 2",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":49.6667,
+                 "x":935.04165,
+                 "y":1245.5
+                }, 
+                {
+                 "height":18.5,
+                 "id":13,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffff7f",
+                     "fontfamily":"Gill Sans MT",
+                     "halign":"center",
+                     "pixelsize":21,
+                     "text":"Info 5",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":49.6667,
+                 "x":1094.99273695652,
+                 "y":1053.54347826087
+                }, 
+                {
+                 "height":18.5,
+                 "id":14,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffff7f",
+                     "fontfamily":"Gill Sans MT",
+                     "halign":"center",
+                     "pixelsize":21,
+                     "text":"Info 4",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":49.6667,
+                 "x":999.010018467282,
+                 "y":445.594861660079
+                }, 
+                {
+                 "height":18.5,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffff7f",
+                     "fontfamily":"Gill Sans MT",
+                     "halign":"center",
+                     "pixelsize":21,
+                     "text":"Info 3",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":49.6667,
+                 "x":839.050172727273,
+                 "y":445.568181818182
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -483,7 +483,7 @@
          "y":0
         }],
  "nextlayerid":22,
- "nextobjectid":12,
+ "nextobjectid":16,
  "orientation":"orthogonal",
  "properties":[
         {
