@@ -227,8 +227,8 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":136.531,
-                 "x":141.734794031167,
+                 "width":144.557875699888,
+                 "x":133.707918331279,
                  "y":3.7558428550426
                 }, 
                 {
@@ -279,13 +279,13 @@
                      "bold":true,
                      "fontfamily":"Gill Sans MT",
                      "pixelsize":21,
-                     "text":"9. \"Die H\u00fctte der Baba-Jaga\"",
+                     "text":"9. \"Die H\u00fctte der Baba Yaga\"",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":154.531,
-                 "x":236.401166666667,
+                 "x":230.381009891751,
                  "y":173.934883333333
                 }, 
                 {
@@ -342,8 +342,8 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":136.531,
-                 "x":195.249651515152,
+                 "width":147.567954087346,
+                 "x":184.212697427806,
                  "y":26.5788227272727
                 }],
          "opacity":1,
