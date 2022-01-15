@@ -197,7 +197,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/baba-jaga01.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-huette-der-baba-yaga-vogelscheuche\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -215,7 +215,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/baba-jaga02.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-huette-der-baba-yaga-vogelscheuche-2\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -233,7 +233,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/baba-jaga03.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-huette-der-baba-yaga-vogelscheuche-3\/"
                 }],
          "type":"tilelayer",
          "visible":true,
