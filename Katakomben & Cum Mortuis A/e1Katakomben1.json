@@ -158,7 +158,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/12\/die-katakomben-von-paris-ausgang.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-katakomben-von-paris-ausgang\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -176,7 +176,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/die-katakomben-von-paris-alte-weisheiten.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-katakomben-von-paris-alte-weisheiten\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -194,7 +194,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/die-katakomben-von-paris-in-der-kalte.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-katakomben-von-paris-in-der-kaelte\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -212,7 +212,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/die-katakomben-von-paris-alter-mann-2.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-katakomben-von-paris-aelterer-herr-2\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -230,7 +230,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/die-katakomben-von-paris-lichtmusik.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-katakomben-von-paris-lichtmusik\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -248,7 +248,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/die-katakomben-von-paris-alter-mann.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-katakomben-von-paris-aelterer-herr\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -266,7 +266,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/die-katakomben-von-paris-aufgabe.html"
+                 "value":"https:\/\/familienkonzerte.eu\/die-katakomben-von-paris-aufgabe\/"
                 }],
          "type":"tilelayer",
          "visible":false,
