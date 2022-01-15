@@ -196,7 +196,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/bydlo-01.html"
+                 "value":"https:\/\/familienkonzerte.eu\/bydlo-01\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -214,7 +214,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/bydlo-02.html"
+                 "value":"https:\/\/familienkonzerte.eu\/bydlo-02\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -232,7 +232,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/bydlo-03.html"
+                 "value":"https:\/\/familienkonzerte.eu\/bydlo-04\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -250,7 +250,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/bydlo-05.html"
+                 "value":"https:\/\/familienkonzerte.eu\/bydlo-auf-dem-acker\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -268,7 +268,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/07\/bydlo-06.html"
+                 "value":"https:\/\/familienkonzerte.eu\/bydlo-03\/"
                 }],
          "type":"tilelayer",
          "visible":true,
