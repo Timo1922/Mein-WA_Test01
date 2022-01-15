@@ -146,7 +146,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/der-marktplatz-von-limoges.html"
+                 "value":"https:\/\/familienkonzerte.eu\/der-marktplatz-von-limoges-eingang\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -164,7 +164,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/aufgabe-limoges.html"
+                 "value":"https:\/\/familienkonzerte.eu\/der-marktplatz-von-limoges-aufgabe\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -182,7 +182,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/limoges-gk.html"
+                 "value":"https:\/\/familienkonzerte.eu\/der-marktplatz-von-limoges-gruenkohl\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -200,7 +200,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/limogeseb.html"
+                 "value":"https:\/\/familienkonzerte.eu\/der-marktplatz-von-limoges-erdbeerkuchen\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -218,7 +218,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/limoges-hs.html"
+                 "value":"https:\/\/familienkonzerte.eu\/der-marktplatz-von-limoges-hustensaft\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -236,7 +236,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/limogesan.html"
+                 "value":"https:\/\/familienkonzerte.eu\/der-marktplatz-von-limoges-ananas\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -254,7 +254,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wa-mussorgski.blogspot.com\/2021\/11\/limoges-ende.html"
+                 "value":"https:\/\/familienkonzerte.eu\/der-marktplatz-von-limoges-ausgang\/"
                 }],
          "type":"tilelayer",
          "visible":false,
