@@ -128,7 +128,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Dieses WorkAdventure wird vom Familienkonzerte Ruhr e.V. unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
+         "value":"Dieses WorkAdventure wird vom Familienkonzerte Ruhr e.V. unter der Lizenz CC BY-SA-NC-ND bereitgestellt.\n_________________________\nWorkAdventure-R\u00e4ume gestaltet von:\n\u2022\tUlrike Schwanse (\u201eDer Gnom\u201c, \u201eDas alte Schloss\u201c, \u201eBallett der unausgeschl\u00fcpften K\u00fcken\u201c).\n\u2022\tTimo Miederhoff (\u201ePromenade(n)\u201c, \u201eDer Marktplatz von Limoges\u201c, \u201eDie Katakomben\u201c und \u201eCum mortuis in lingua mortua\u201c, \u201eDie H\u00fctte der Baba-Jaga\u201c, \u201eDas gro\u00dfe Tor von Kiew\u201c).\n\u2022\tLuise Hecht (\u201eDie Tuilerien\u201c).\n\u2022\tHenrik Wilkens (\u201eByd\u0142o\u201c).\n\u2022\tPaul Lemke (\u201eSamuel\u201c Goldenberg und \u201eSchmuyle\u201c).\n"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
@@ -142,6 +142,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"[Base]BaseChip_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\t[Base]BaseChip_pipo \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32 [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -159,7 +165,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                 "value":"o\tmapUtilities (CC BY-SA-NC-ND), erstellt von Timo Miederhoff \u2013 in Anlehnung an mapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
                 }],
          "spacing":2,
          "tilecount":9,
@@ -185,6 +191,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"pipo-popupemotes_sampleanimation_rund",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tpipo-popupemotes_sampleanimation [\u201epipo-popupemotes_sampleanimation_rund\u201c] \u00a9 Pipoya (Nutzung im Sinne der festgelegten Lizenzbestimmung: \u201e- For commercial or personal use. - Use and edit freely. - Not redistribute or resell this assets. - It can be used for game development and other productions.\u201c), URL: https:\/\/pipoya.itch.io\/free-popup-emotes-pack [abgerufen am 18.12.2021]."
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
@@ -198,6 +210,12 @@
          "imagewidth":800,
          "margin":0,
          "name":"Familienkonzerte_muelheim_plakat",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tFamilienkonzerte_muelheim_plakat \u00a9 Familienkonzerte Ruhr e.V.  (Nutzung mit freundlicher Genehmigung)."
+                }],
          "spacing":0,
          "tilecount":875,
          "tileheight":32,
