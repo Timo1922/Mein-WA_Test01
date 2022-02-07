@@ -751,7 +751,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"o\tLogo_Familienkonzerte \u00a9 Ulrike Schwanse (Nutzung mit freundlicher Genehmigung)."
+                 "value":"o\tLogo_Familienkonzerte \u00a9 Familienkonzerte Ruhr e.V.  (Nutzung mit freundlicher Genehmigung)."
                 }],
          "spacing":0,
          "tilecount":30,
@@ -785,6 +785,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"sprites2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"o\tsprites (CC0), URL: https:\/\/opengameart.org\/content\/tile-based-strategy-game-sprites [abgerufen am 10.12.2021]."
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
