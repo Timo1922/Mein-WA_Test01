@@ -248,7 +248,7 @@
                  "y":214.127809446625
                 }, 
                 {
-                 "height":152.414,
+                 "height":86.4148390928565,
                  "id":7,
                  "name":"l",
                  "rotation":0.0238741,
@@ -256,34 +256,16 @@
                     {
                      "color":"#ffff00",
                      "fontfamily":"Gill Sans MT",
+                     "halign":"justify",
                      "pixelsize":18,
-                     "text":"Familienkonzerte am 11.\/12. Juni 2022 jeweils um 10, 12 und 14 Uhr in der Lichtburg. N\u00e4here Informationen unter www.familienkonzerte.info",
+                     "text":"Familienkonzerte am 11.\/12. Juni 2022 jeweils um 10, 12 und 14 Uhr in der Lichtburg in Essen und am 19. Juni 2022 um 10, 12.30, 15 und 17.30 in der Stadthalle in M\u00fchlheim an der Ruhr. N\u00e4here Informationen unter www.familienkonzerte.info",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":356.912885029244,
-                 "x":344.876333333333,
-                 "y":601.126333333333
-                }, 
-                {
-                 "height":74.4402577145701,
-                 "id":8,
-                 "name":"l",
-                 "rotation":0.0238741,
-                 "text":
-                    {
-                     "color":"#ffff00",
-                     "fontfamily":"Gill Sans MT",
-                     "pixelsize":21,
-                     "text":"Klaviereinspielung: \u00a9 Jevgeni Vitovski (Nutzung mit freundlicher Genehmigung).",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":302.865919662642,
-                 "x":711.5435,
-                 "y":591.793
+                 "width":461.577875883054,
+                 "x":348.543,
+                 "y":582.126333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -310,7 +292,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Dieses WorkAdventure wird vom Familienkonzerte Ruhr e.V. unter der Lizenz CC BY-SA-NC-ND bereitgestellt."
+         "value":"Dieses WorkAdventure wird vom Familienkonzerte Ruhr e.V. unter der Lizenz CC BY-SA-NC-ND bereitgestellt.\n_________________________\nWorkAdventure-R\u00e4ume gestaltet von:\n\u2022\tUlrike Schwanse (\u201eDer Gnom\u201c, \u201eDas alte Schloss\u201c, \u201eBallett der unausgeschl\u00fcpften K\u00fcken\u201c).\n\u2022\tTimo Miederhoff (\u201ePromenade(n)\u201c, \u201eDer Marktplatz von Limoges\u201c, \u201eDie Katakomben\u201c und \u201eCum mortuis in lingua mortua\u201c, \u201eDie H\u00fctte der Baba-Jaga\u201c, \u201eDas gro\u00dfe Tor von Kiew\u201c).\n\u2022\tLuise Hecht (\u201eDie Tuilerien\u201c).\n\u2022\tHenrik Wilkens (\u201eByd\u0142o\u201c).\n\u2022\tPaul Lemke (\u201eSamuel\u201c Goldenberg und \u201eSchmuyle\u201c).\n"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
@@ -328,7 +310,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"o\tmapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
+                 "value":"o\tmapUtilities (CC BY-SA-NC-ND), erstellt von Timo Miederhoff \u2013 in Anlehnung an mapUtilities, URL: https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit\/blob\/main\/mapUtilities.png [abgerufen am 10.12.2021]."
                 }],
          "spacing":2,
          "tilecount":9,
