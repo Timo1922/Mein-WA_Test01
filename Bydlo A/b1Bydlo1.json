@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Ballett%20Kuecklein%20A\/b1Ballett.json"
+                 "value":"..\/Promenade%20A\/PromenadeNeuessen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
