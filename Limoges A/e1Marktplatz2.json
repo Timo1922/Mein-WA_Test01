@@ -116,7 +116,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"eMarktplatz"
+                 "value":"eMarktplatz7682576283?549-#1!"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -394,7 +394,7 @@
                  "y":2754.27145
                 }, 
                 {
-                 "height":61.9635,
+                 "height":24.2135,
                  "id":6,
                  "name":"",
                  "rotation":0,
@@ -409,8 +409,8 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":114.698,
-                 "x":323.984333333333,
+                 "width":86.198,
+                 "x":326.734333333333,
                  "y":3.68491666666682
                 }, 
                 {
